@@ -10,6 +10,8 @@
     "typescript": "^5"
   },
   "dependencies": {
+    "@stoqey/finnhub": "^0.3.4",
+    "dotenv": "^17.2.4",
     "redis": "^5.10.0"
   }
 }
